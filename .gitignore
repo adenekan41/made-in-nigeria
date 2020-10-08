@@ -1,3 +1,6 @@
 .idea
 node_modules
 .DS_store
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
